@@ -32,4 +32,8 @@
   <li> Thi Vĩnh Huy - 21522165 </li>
   <li> Đỗ Quốc Duy - 21520768 </li>
   <li> Từ Trương Tuấn Kiệt - 19521727 </li>
+    <h3><b> Nhóm 7 </b></h3>
+  <li> Huỳnh Hoàng Khánh - 21520976 </li>
+  <li> Nguyễn Chánh Nghĩa - 21520362 </li>
+  <li> Nguyễn Quốc Hưng - 21520253 </li>
 </ul>
